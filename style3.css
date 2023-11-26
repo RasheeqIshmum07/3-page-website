@@ -1,0 +1,39 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.logo2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.secondbox h5{
+    text-align: center;
+    max-width: 637px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 36px 0;
+    padding-bottom: 0%;
+}
+.sub h1{
+    text-align: center;
+    max-width: 637px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 36px 0;
+    padding-bottom: 0%;
+}
+
+.sub p{
+    text-align: center;
+    max-width: 637px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 36px 0;
+    padding-bottom: 0%;
+}
+
